@@ -5,6 +5,8 @@
 
 Using Terraform to create GitHub Secrets, Variables, and Environments in a GitHub repository.
 
+Blog ==> https://gmusumeci.medium.com/how-to-create-github-actions-secrets-variables-and-environments-using-terraform-a2c3aaacefba
+
 ## Code creates:
 
 - GitHub Repository Secrets
